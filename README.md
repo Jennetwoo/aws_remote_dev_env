@@ -1,7 +1,5 @@
 # aws_remote_dev_env
-Certainly! Here's a more detailed account of completing the project:
 
----
 
 ### Setting Up the Infrastructure with Terraform
 
